@@ -5,8 +5,7 @@ The following link to translations that live in my [forked repo](https://github.
 
 Translations will end up in a new branch in the [ericpassmore cloned repository](https://github.com/ericpassmore/internationalization/tree/i10n-sample-translations)
 
-[Chinese Simplified - simple translations](
-https://crowdin.com/project/eos-demo/zh-CN#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/simple)
-[Chinese Simplified - technical translations](https://crowdin.com/project/eos-demo/zh-CN#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/technical)
-[Korean - simple translations](https://crowdin.com/project/eos-demo/ko#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/simple)
-[Korean - technical translations](https://crowdin.com/project/eos-demo/ko#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/technical)
+* [Chinese Simplified - simple translations](https://crowdin.com/project/eos-demo/zh-CN#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/simple)
+* [Chinese Simplified - technical translations](https://crowdin.com/project/eos-demo/zh-CN#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/technical)
+* [Korean - simple translations](https://crowdin.com/project/eos-demo/ko#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/simple)
+* [Korean - technical translations](https://crowdin.com/project/eos-demo/ko#/internationalization%20%2F%20ericpassmore-working/SampleTranslations/technical)
