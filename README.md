@@ -46,6 +46,12 @@ Etherum translates their developer documentation, and content.
 
 Etherum makes use of many tools; however [Crowdin](https://crowdin.com/) is prometly featured in their translation site. 
 
+### Etherum Reviews
+Community translations are reviewed by a professional translation team. Etherum uses [Crowdin](https://crowdin.com/) which allows for a 2-pass review process. First translation by the community, and followed by a professional review. The professional review only occures after the community reaches 100% translation for a file. 
+
+### Etherum Bounties
+Etherum may be offering bounties for translations. From looking at the [Etherum translation program](https://ethereum.org/en/contributing/translation-program/) the community translations are done pro-bono. 
+
 ## Term Glossary
 For translations a Term Glossary is very important. Translating engineering and technical documenation requires both language expertise and engineering expertise. A term glossary stores a mapping of terms between languages. Leveraging a term glossary
 * Enables language experts to get the right engineering terms.
